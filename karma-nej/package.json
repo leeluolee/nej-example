@@ -1,0 +1,21 @@
+{
+  "name": "karma-nej-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start ./karma.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "karma-nej": "0.0.1",
+    "glob": "^6.0.4",
+    "karma": "^0.13.19",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-chrome-launcher": "^0.2.2",
+    "jasmine-core": "^2.4.1",
+    "karma-coverage": "^0.5.3",
+    "karma-jasmine": "^0.3.6"
+  }
+}
