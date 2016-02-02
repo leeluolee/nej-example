@@ -8,7 +8,7 @@
 
 karma是一个为单元测试量身定做的容器, 你可以在这个容器内使用任何真实浏览器(包含PhantomJS)以及任意测试框架(mocha, jasmine...etc)来测试你的代码.
 
-这个例子与NEJ的结合依赖于karma插件[nej-karma]
+这个例子与NEJ的结合依赖于karma插件[karma-nej](https://github.com/NetEaseWD/karma-nej)
 
 流程
 
